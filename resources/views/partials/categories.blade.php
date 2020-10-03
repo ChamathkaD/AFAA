@@ -1,0 +1,11 @@
+<li><a href="{{ route('fashion') }}">Fashion Designing</a></li>
+<li><a href="{{ route('costume') }}">Costume Designing</a></li>
+<li><a href="{{ route('textile') }}">Textile Designing</a></li>
+<li><a href="{{ route('jewellery') }}">Jewellery Designing</a></li>
+<li><a href="{{ route('apparel') }}">Apparel Industry</a></li>
+<li><a href="{{ route('modeling') }}">Modeling</a></li>
+<li><a href="{{ route('footware') }}">Footware</a></li>
+<li><a href="{{ route('fashion.photo') }}">Fashion Photography</a></li>
+<li><a href="{{ route('fashion.choreography') }}">Fashion Choreography</a></li>
+<li><a href="{{ route('special') }}">Special</a></li>
+<li><a href="{{ route('lifetime') }}">Lifetime Achievement Awards</a></li>
